@@ -66,7 +66,7 @@ Project.addEventListener("click",function(){
 })
 
 Execution.addEventListener("click",function(){
-    desc.textContent = "same 3."
+    desc.textContent = "The ability to thrive amidst adversity, resilience ensures that agricultural operations can withstand environmental, economic, and social challenges. Whether it's adapting to climate change, combating pests, or navigating market fluctuations, resilience is key to long-term success and sustainability in agriculture."
     var add = Execution.getAttribute("data-img")
     image.setAttribute("src",`${add}`)
     Project.style.right = "0vw"
