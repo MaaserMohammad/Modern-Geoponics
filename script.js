@@ -54,7 +54,7 @@ Design.addEventListener("click",function(){
 })
 
 Project.addEventListener("click",function(){
-    desc.textContent = "The backbone of modern agriculture, centered on optimizing every stage of the farming process. From resource allocation to labor management, efficiency ensures that time, effort, and materials are utilized effectively to reduce waste and increase overall farm performance."
+    desc.textContent = "The backbone of modern agricultur.kjfeflk hfrjkg klghkgjr jrkjr gjerwgkrelhh hhhhhhhh hhhhhhhhhh hhhhhhjk hgggggggggg ggggg gggggg gggggg gggggg ggggggg gggggggg ggggggg gggg gggg ggggg gggggg ggggg ggggg gggg ggggg gggg gggg gghh kjker    rjrkerhjerjgherg    rjkehek jhgkerj hgkj  ehgerhg kjgnk bgne rjgr ejgn jrhj knjkrth jkgnerjgkb erhjer bgj gjhgkjerg ejgrkhrkjhkerj"
     var add = Project.getAttribute("data-img")
     image.setAttribute("src",`${add}`)
     Project.style.right = "2vw"
