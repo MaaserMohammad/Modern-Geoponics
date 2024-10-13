@@ -42,7 +42,7 @@ var Execution = document.querySelector("#Execution")
 var image = document.querySelector("#page4-img")
 
 Design.addEventListener("click",function(){
-    desc.textContent = "Focus on maximizing output with innovative techniques and optimized farming practices to achieve higher yields."
+    desc.textContent = "A commitment to enhancing agricultural output by implementing cutting-edge technologies and sustainable practices. Focused on delivering higher yields with fewer resources, ensuring both profitability and environmental care in every harvest."
     var add = Design.getAttribute("data-img")
     image.setAttribute("src",`${add}`)
     Project.style.right = "0vw"
