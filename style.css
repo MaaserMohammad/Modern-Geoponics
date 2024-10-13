@@ -452,7 +452,7 @@ html,body{
     border-radius: 21px;
     display: flex;
     align-items: center;
-    position: relative; /* yaha add kar raha hu el naya*/
+    position: relative; /* yaha add kar raha hu */
 }
 #brown-box img{
     width: 80%;  /* isko 60% se auto kar raha hu */
