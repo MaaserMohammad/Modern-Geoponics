@@ -455,12 +455,12 @@ html,body{
     position: relative; /* yaha add kar raha hu */
 }
 #brown-box img{
-    width: 80%;  /* isko 60% se auto kar raha hu */
-    height: 100%; /* isko 100 se 60*/
+    width: 80%;  
+    height: 100%;  
     background-size: cover;
     border-radius: 21px;
-    object-fit: cover; /* yaha add kar raha hu el naya */
-    position: relative; /* yaha add kar raha hu el naya */
+    object-fit: cover;  
+    position: relative;  
     /*max-height: 60%;  isko add kar raha hu */
 }
 #tab-sec h2{
