@@ -452,16 +452,12 @@ html,body{
     border-radius: 21px;
     display: flex;
     align-items: center;
-    position: relative; /* yaha add kar raha hu */
 }
 #brown-box img{
-    width: 80%;  
+    width: 60%;  
     height: 100%;  
     background-size: cover;
     border-radius: 21px;
-    object-fit: cover;  
-    position: relative;  
-    /*max-height: 60%;  isko add kar raha hu */
 }
 #tab-sec h2{
     font-family: sun-mediu;
