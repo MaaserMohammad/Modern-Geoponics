@@ -54,7 +54,7 @@ Design.addEventListener("click",function(){
 })
 
 Project.addEventListener("click",function(){
-    desc.textContent = "same 2"
+    desc.textContent = "The backbone of modern agriculture, centered on optimizing every stage of the farming process. From resource allocation to labor management, efficiency ensures that time, effort, and materials are utilized effectively to reduce waste and increase overall farm performance."
     var add = Project.getAttribute("data-img")
     image.setAttribute("src",`${add}`)
     Project.style.right = "2vw"
