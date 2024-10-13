@@ -453,7 +453,7 @@ html,body{
     display: flex;
     align-items: center;
     position: relative; /* yaha add kar raha hu el naya*/
-    
+}
 #brown-box img{
     width: 80%;  /* isko 60% se auto kar raha hu */
     height: 100%; /* isko 100 se 60*/
