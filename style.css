@@ -30,9 +30,9 @@ html,body{
 #loader h1{
     position: absolute;
     color: transparent;
-    background: linear-gradient(to right,#ec4f1ff1,#16b404);
+    background: linear-gradient(to top,#ec4f1ff1,#16b404);
     -webkit-background-clip: text;
-    font-size: 7vw;
+    font-size: 8vw;
     opacity: 0;
     animation-name: loader;
     animation-duration: 1s;
@@ -512,7 +512,7 @@ html,body{
 .swiper-slide {
     text-align: center;
     padding-left: 2vw;
-    background: #EFEAE3;
+    background: #f4f4c4;
     display: flex;
     flex-direction: column;
     text-align: left;
