@@ -42,7 +42,7 @@ var Execution = document.querySelector("#Execution")
 var image = document.querySelector("#page4-img")
 
 Design.addEventListener("click",function(){
-    desc.textContent = "yaha aa or titel ke related contet search kar likh js"
+    desc.textContent = "Focus on maximizing output with innovative techniques and optimized farming practices to achieve higher yields."
     var add = Design.getAttribute("data-img")
     image.setAttribute("src",`${add}`)
     Project.style.right = "0vw"
