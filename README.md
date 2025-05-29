@@ -33,13 +33,7 @@ Ideas for new features, fun facts, or eye-candy animations?
 Open an issue or pull request — let’s grow Modern-Geoponics together!
 
 ---
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
+ 
 ## 🧑‍🌾 Author
 
 Crafted with 💚 by [MaaserMohammad](https://github.com/MaaserMohammad)
@@ -52,6 +46,13 @@ Crafted with 💚 by [MaaserMohammad](https://github.com/MaaserMohammad)
 > With Modern-Geoponics, you’re stepping into a digital farm of the future!
 
 ---
+
+## 📄 License
+
+MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
 
 ## 📝 Feedback
 
